@@ -1,0 +1,203 @@
+1670001967380	geckodriver	INFO	Listening on 127.0.0.1:56954
+1670001970464	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56955" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mstep\\AppData\\Local\\Temp\\rust_mozprofileMxa8Oh"
+1670001972228	Marionette	INFO	Marionette enabled
+1670001972237	Marionette	INFO	Listening on port 56966
+Read port: 56966
+WebDriver BiDi listening on ws://127.0.0.1:56955
+1670001972452	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mstep\\AppData\\Local\\Temp\\rust_mozprofileMxa8Oh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56955/devtools/browser/cc912566-241b-4a81-a1d1-f1b336695ea2
+1670002729501	Marionette	INFO	Stopped listening on port 56966
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670002740780	geckodriver	INFO	Listening on 127.0.0.1:57231
+1670002743854	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57232" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mstep\\AppData\\Local\\Temp\\rust_mozprofileKrV98k"
+1670002744428	Marionette	INFO	Marionette enabled
+1670002744434	Marionette	INFO	Listening on port 57241
+WebDriver BiDi listening on ws://127.0.0.1:57232
+Read port: 57241
+1670002744727	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mstep\\AppData\\Local\\Temp\\rust_mozprofileKrV98k\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57232/devtools/browser/7199b0bb-2ef9-4f4d-ade1-305fee9e9c56
+1670002751374	Marionette	INFO	Stopped listening on port 57241
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670005349039	geckodriver	INFO	Listening on 127.0.0.1:59270
+1670005352051	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59271" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mstep\\AppData\\Local\\Temp\\rust_mozprofilemcgQGm"
+1670005353137	Marionette	INFO	Marionette enabled
+1670005353146	Marionette	INFO	Listening on port 59290
+Read port: 59290
+WebDriver BiDi listening on ws://127.0.0.1:59271
+1670005353324	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mstep\\AppData\\Local\\Temp\\rust_mozprofilemcgQGm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59271/devtools/browser/96391134-dbd9-4137-8c79-e16003ae23ee
+1670005384538	Marionette	INFO	Stopped listening on port 59290
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670182367874	geckodriver	INFO	Listening on 127.0.0.1:59424
+1670182370967	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59425" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mstep\\AppData\\Local\\Temp\\rust_mozprofileCIlvn0"
+1670182372534	Marionette	INFO	Marionette enabled
+1670182372545	Marionette	INFO	Listening on port 59436
+Read port: 59436
+WebDriver BiDi listening on ws://127.0.0.1:59425
+1670182372775	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mstep\\AppData\\Local\\Temp\\rust_mozprofileCIlvn0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59425/devtools/browser/c1b9e122-6843-49f7-98e0-1360d5da1b13
+1670182389081	Marionette	INFO	Stopped listening on port 59436
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670188610658	geckodriver	INFO	Listening on 127.0.0.1:50291
+1670188613776	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50292" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mstep\\AppData\\Local\\Temp\\rust_mozprofilexKbCpr"
+1670188614840	Marionette	INFO	Marionette enabled
+1670188614846	Marionette	INFO	Listening on port 50303
+Read port: 50303
+WebDriver BiDi listening on ws://127.0.0.1:50292
+1670188614995	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mstep\\AppData\\Local\\Temp\\rust_mozprofilexKbCpr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50292/devtools/browser/3fcbcea9-594f-460b-b861-e1a8aa7ec289
+1670188622802	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1670188625179	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://edition.cnn.com/ line 1 > injectedScript, line 22: TypeError: exceptions is undefined
+1670188626291	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 2888 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670189071981	Marionette	INFO	Stopped listening on port 50303
+[Parent 3968, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:559
+[Parent 3968, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+BiDi listening on ws://127.0.0.1:50836
+Read port: 50848
+1670188691617	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mstep\\AppData\\Local\\Temp\\rust_mozprofileL8MTCx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50836/devtools/browser/4629b39f-3048-4faf-87c0-453461f3aac7
+1670188698833	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1670188701450	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://edition.cnn.com/ line 1 > injectedScript, line 22: TypeError: exceptions is undefined
+1670188702483	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 1862 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://edition.cnn.com/ line 1 > injectedScript, line 22: TypeError: exceptions is undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://edition.cnn.com/ line 1 > injectedScript, line 22: TypeError: exceptions is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 754 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670188765292	Marionette	INFO	Stopped listening on port 50848
+1673163738087	geckodriver	INFO	Listening on 127.0.0.1:62928
+1673163741171	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62929" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mstep\\AppData\\Local\\Temp\\rust_mozprofileR6AYd6"
+1673163742334	Marionette	INFO	Marionette enabled
+1673163742342	Marionette	INFO	Listening on port 62938
+Read port: 62938
+WebDriver BiDi listening on ws://127.0.0.1:62929
+1673163742511	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mstep\\AppData\\Local\\Temp\\rust_mozprofileR6AYd6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62929/devtools/browser/f80c0272-c755-4e5b-8b61-537e5a0b0c1c
+1673163751014	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1673163753835	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://edition.cnn.com/ line 1 > injectedScript, line 22: TypeError: exceptions is undefined
+1673163757838	Marionette	INFO	Stopped listening on port 62938
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+sendPing@resource://gre/modules/EventPing.jsm:51:30
+_submitPing@resource://gre/modules/EventPing.jsm:229:12
+shutdown@resource://gre/modules/EventPing.jsm:112:10
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:940:31
+shutdown/<@resource://gre/modules/TelemetryControllerParent.jsm:1010:24
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:982:34
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:1014:36
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:1687:7
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:369:30
+_getState@resource://gre/modules/TelemetryControllerParent.jsm:1058:38
+setupTelemetry/<@resource://gre/modules/TelemetryControllerParent.jsm:917:18
+safeGetState@resource://gre/modules/AsyncShutdown.jsm:242:17
+Barrier/addBlocker/promise<@resource://gre/modules/AsyncShutdown.jsm:751:20
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:721:5
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:249:17
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1235:42
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
